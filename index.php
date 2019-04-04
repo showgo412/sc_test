@@ -8,11 +8,12 @@ function test()
 		echo $i.PHP_EOL;
 	}
 }
-test02();
-function test02()
+test02__();
+function test03()
 {
 	for($i=0;10>$i;$i++)
-	{	
+	{
+		
 		echo $i.PHP_EOL;
 	}
 }
