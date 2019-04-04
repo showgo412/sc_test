@@ -7,6 +7,14 @@ function test()
 	{
 		echo $i.PHP_EOL;
 	}
+
+	$character = 'daisy';
+
+	if (isset($character)) {
+		echo $character;
+	}
+
+
 }
 
 test();
