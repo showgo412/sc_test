@@ -1,5 +1,5 @@
 <?php
-echo "";
+echo "ikemasu";
 function test()
 {
 	$x = 1;
