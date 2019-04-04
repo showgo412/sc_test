@@ -9,5 +9,14 @@ function test()
 	}
 }
 
+function test02()
+{
+	for($i=0;100>$i;$i++)
+	{
+		echo $i.PHP_EOL;
+	}
+}
 test();
+
+test02();
 
